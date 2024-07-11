@@ -12,4 +12,4 @@ I am an epidemiologist, and my research interests lay at the intersection of urb
 
 I hold a PhD in Epidemiology from the University of Texas Health Science Center. I also received at Master of Science in Exercise Science and Bachelor of Science in Public Health from the University of Texas at Austin. 
 
-I would love to chat with anyone about my work or or opportunities to collaborate. Feel free to email me for inquiries.
+I would love to chat with anyone about my work or or opportunities to collaborate. Feel free to email me directly.
