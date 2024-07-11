@@ -10,15 +10,15 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Projects"
-    url: /portfolio/
+#  - title: "Projects" #will add projects eventually
+#    url: /portfolio/
         
 #  - title: "Blog"
 #   url: /year-archive/
     
   - title: "CV"
    #url: /cv/
-    url: /files/Burford-Kathryn-CV-2024-July-8.pdf
+    url: /files/Burford-Kathryn-CV-2024-JULY-8.pdf
     
 # - title: "Guide"
 #    url: /markdown/
