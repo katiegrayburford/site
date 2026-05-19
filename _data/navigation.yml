@@ -17,9 +17,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-   #url: /cv/
+    #url: /cv/
     url: /files/Burford-Kathryn-CV-2026-May.pdf
     
 # - title: "Guide"
 #    url: /markdown/
-     
