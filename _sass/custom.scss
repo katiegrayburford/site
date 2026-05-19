@@ -1,0 +1,48 @@
+/* Links */
+a {
+  color: #2e7d52;
+}
+a:hover {
+  color: #1a4a6b;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #1a6b3c;
+}
+
+/* Sidebar author name & bio */
+.author__name {
+  color: #1a6b3c;
+}
+.author__bio {
+  color: #2e7d52;
+}
+
+/* Nav bar */
+.masthead {
+  background: linear-gradient(135deg, #1a6b3c, #1a4a6b);
+  border-bottom: none;
+}
+.masthead__inner-wrap a,
+.masthead__menu-item a,
+.greedy-nav a {
+  color: #ffffff !important;
+}
+.greedy-nav .visible-links a:before {
+  background: #ffffff;
+}
+
+/* Page title */
+.page__title {
+  color: #1a6b3c;
+}
+
+/* Footer */
+.page__footer {
+  background: #1a4a6b;
+  color: #ffffff;
+}
+.page__footer a {
+  color: #a8d5b5;
+}
