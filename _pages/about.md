@@ -11,7 +11,10 @@ I am also a postdoctoral fellow in the [Center for Geospatial Analytics](https:/
 
 I use my training in epidemiology, GIS, environmental health, and community health to conduct research focused on how urban policy and design impact physical activity and injury outcomes related to active transportation.
 
+<<<<<<< HEAD
 Currently, I am most excited about my ongoing work to generate evidence and develop GIS translation tools that support the equitable expansion and sustainability of the Open Streets for Schools Program in NYC.  
 My research is guided by my belief that all communities should have access to safe opportunities for walking, bicycling, playing, and all other forms of physical activity.
+=======
+>>>>>>> a04e2a3e981e70f0e8053f2b6502d3d1d806a7a9
 
 I would love to chat with anyone about my work or or opportunities to collaborate. Feel free to email me directly.
